@@ -1,27 +1,11 @@
-### IVF
+### Wholesome Bot!
 
-### Hey there my name is Yousef, and today i will be explaining How IVF works!
+### Hey there my name is Yousef, and I am a discord bot developer using the discord.py package
+### My bot is about making the server very wholesome with many wholesome - like Commands like /inspire which sends you inspirational quotes
+### I am not interested in having other people in helping me develop this bot.
 
-### What does IVF Stands for? -- IVF stands for In Vitro Fertilisation. 
+### I would gladly appreciate if you would like to invite the bot [Here](https://discord.com/oauth2/authorize?client_id=767080666328072233&scope=bot&permissions=470281470)
 
-### What is IVF?
+### If you have any suggestions/ bugs please join my sever [Here](https://discord.gg/dUfZZQN3jp)
 
-### IVF is the process of fertilization that is occured outside the body that is used to help women that have problems becoming pregnant..
-
-### Who invented IVF?: Robert Edwards Is the person who invented IVF was invented back in the early 1890's
-### What was the first IVF surgery?: The first attempt in IVF was in  1878 on a female rabbit.
-
-### What was the first human IVF surgery?: The first IVF surgery was in  1981 with the birth of Louise Brown Who was the first person to be peformed in IVF
-
-### Under here is an article about IVF.
-
-[Click me if you want to see a IVF article](https://www.nhs.uk/conditions/ivf/what-happens/)
-
-### How long does IVF stand for?: it takes on average 4-7 weeks until the woman becomes pregnant.
-
-### What have we learned today?
-
-### We now learned What is IVF, the history , How long it takes and so on.
-
-### This website was made using HTML
-
+### That's all so far.
