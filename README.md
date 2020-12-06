@@ -5,7 +5,9 @@
 ### So I'm currently working on a bot called WholesomeBot!
 ### It's in beta so expect bugs..
 
-### If you want to invite the bot you can ok
+### If you want to invite the bot you can invite it here.
+
+[Invite wholesome Bot!](https://discord.com/oauth2/authorize?client_id=767080666328072233&scope=bot&permissions=470281470)
 
 <!--
 **QweLZ/qwelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
