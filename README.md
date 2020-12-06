@@ -2,7 +2,10 @@
 
 ### Hey there my name is Yousef, I am a discord bot developer using the discord.py package
 
-### If you want to invite the bot just wait ok
+### So I'm currently working on a bot called WholesomeBot!
+### It's in beta so expect bugs..
+
+### If you want to invite the bot you can ok
 
 <!--
 **QweLZ/qwelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
