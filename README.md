@@ -1,4 +1,6 @@
-### Hello there this is a test ok get it through u rhead
+### Hi there so my name is Yousef or you can call me QweLZ as a nick name, anyways this is my bot's website! 
+
+### So yeah my bot is Uh wholesome i guess
 
 <!--
 **QweLZ/qwelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
