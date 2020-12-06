@@ -6,6 +6,6 @@
 
 ### I would gladly appreciate if you would like to invite the bot [Here](https://discord.com/oauth2/authorize?client_id=767080666328072233&scope=bot&permissions=470281470)
 
-### If you have any suggestions/ bugs please join my sever [Here](https://discord.gg/dUfZZQN3jp)
+### If you have any suggestions/ bugs please join my support server [Here](https://discord.gg/dUfZZQN3jp)
 
 ### That's all so far.
