@@ -1,8 +1,8 @@
-### Hi there so my name is Yousef or you can call me QweLZ as a nick name, anyways this is my bot's website! 
+### WholesomeBot
 
-### So yeah my bot is Uh wholesome i guess
+### Hey there my name is Yousef, I am a discord bot developer using the discord.py package
 
-### test 
+### If you want to invite the bot just wait ok
 
 <!--
 **QweLZ/qwelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
